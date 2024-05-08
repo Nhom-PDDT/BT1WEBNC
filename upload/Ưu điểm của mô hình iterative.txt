@@ -1,0 +1,15 @@
+Ưu điểm của mô hình tiếp cận lặp:
+反復的アプローチモデルの利点:
+Hanpuku-teki apurōchimoderu no riten:
+    • Linh hoạt: Mô hình tiếp cận lặp cung cấp sự linh hoạt cho dự án vì BA và đội ngũ có thể điều chỉnh cho phù hợp với những thay đổi trong quá trình phát triển.
+    • 柔軟性: 反復的アプローチモデルは、BAとチームが開発プロセスの変更に適応できるため、プロジェクトに柔軟性を提供します。
+    • Jūnansei: Hanpuku-teki apurōchimoderu wa, BA to chīmu ga kaihatsu purosesu no henkō ni tekiō dekiru tame, purojekuto ni jūnansei o teikyō shimasu.
+    • Giảm rủi ro: Các yêu cầu của khách hàng được BA thu thập và đánh giá trong từng chu kỳ lặp, giúp giảm thiểu rủi ro của dự án.
+    • リスクの軽減:顧客の要件は、各反復サイクルでBAによって収集および評価され、プロジェクトのリスクを最小限に抑えるのに役立ちます。
+    • Tăng mức hài lòng của khách hàng: Khách hàng có thể tham gia vào quá trình phát triển phần mềm trong từng chu kỳ lặp. Từ đó, khả năng sản phẩm đáp ứng được sự hài lòng của khách hàng là rất cao. 
+    • 顧客満足度の向上: 顧客は、各反復サイクルでソフトウェア開発プロセスに参加できます。そこから、顧客満足を満たす製品の能力は非常に高いです。
+    • Kokakumanzoku-do no kōjō: Kokyaku wa, kaku hanpuku saikuru de sofutō~ea kaihatsu purosesu ni sanka dekimasu. Soko kara, kokakumanzoku o mitasu seihin no nōryoku wa hijō ni takaidesu.
+ 
+ 
+
+   
